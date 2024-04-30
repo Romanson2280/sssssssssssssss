@@ -1,0 +1,288 @@
+.backgr-ph {
+    width: 99.7vw;
+    height: 50vw;
+    margin-top: -0.5vw;
+    margin-left: -1vw;
+    overflow-x: hidden;
+}
+
+.kvardrat {
+  background-color: #4AF6CD;
+  width: 11vw;
+  height: 11vw;
+  margin-top: -50.3vw;
+  margin-left: -1vw;
+  position: relative;
+}
+
+.textsurf {
+  font-family: "Fira Sans", sans-serif;
+  color: white;
+  font-size: 4vw;
+  font-weight: bold;
+  transform: rotate(-90deg);
+  margin-top: -96.8vw;
+  margin-left: -89vw;
+}
+
+.go {
+  font-family: "Fira Sans", sans-serif;
+  color: white;
+  font-size: 4vw;
+  font-weight: bold;
+  transform: rotate(-90deg);
+  margin-top: 2.5vw;
+  margin-left: -88.8vw;
+}
+
+.s {
+  font-family: "Fira Sans", sans-serif;
+  color: white;
+  transform: rotate(0deg);
+  background: white;
+  width: 0.1vw;
+  height: 1.5vw;
+  margin-top: 83.85vw;
+  margin-left: 4.5vw;
+}
+
+.hrgo {
+  background: gray;
+  width: 0.1vw;
+  height: 49.7vw;
+  margin-top: -12vw;
+  margin-left: 9.95vw;
+  position: relative;
+  opacity: 50%;
+}
+
+.ves-text {
+  margin-left: 0.3vw;
+  margin-top: 0.4vw;
+}
+
+.vseee {
+  margin-top: -50.5vw;
+}
+
+.surf {
+  top: -26vw;
+  left: 3.3vw;
+  position: relative;
+  width: 2.9vw;
+  height: 2.5vw;
+}
+
+.surft {
+  font-family: "Fira Sans", sans-serif;
+  color: white;
+  font-size: 0.8vw;
+  font-weight: 400;
+  margin-top: -25.9vw;
+  margin-left: 3.65vw;
+  letter-spacing: 0.2vw;
+}
+
+.travel {
+  top: 1vw;
+  left: 3.3vw;
+  position: relative;
+  width: 2.9vw;
+  height: 2.5vw;
+}
+
+.travelt {
+  font-family: "Fira Sans", sans-serif;
+  color: white;
+  font-size: 0.8vw;
+  font-weight: 400;
+  margin-top: 0.8vw;
+  margin-left: 3.15vw;
+  letter-spacing: 0.2vw;
+}
+
+.travel-vse {
+  margin-top: 0.5vw;
+}
+
+.sleep {
+  left: 3.6vw;
+  top: 1.6vw;
+  position: relative;
+  width: 2vw;
+  height: 1.7vw;
+}
+
+.sleept {
+  font-family: "Fira Sans", sans-serif;
+  color: white;
+  font-size: 0.8vw;
+  font-weight: 400;
+  margin-top: 1.8vw;
+  margin-left: 3.2vw;
+  letter-spacing: 0.2vw;
+}
+
+.shop {
+  left: 3.5vw;
+  top: 1.8vw;
+  position: relative;
+  width: 2vw;
+  height: 2.7vw;
+}
+
+.shopt {
+  font-family: "Fira Sans", sans-serif;
+  color: white;
+  font-size: 0.8vw;
+  font-weight: 400;
+  margin-top: 1.8vw;
+  margin-left: 3.25vw;
+  letter-spacing: 0.2vw;
+}
+
+
+.vse12 {
+  margin-top: -4vw;
+  margin-left: -0.1vw;
+}
+
+.s20 {
+  font-family: "Fira Sans", sans-serif;
+  color: white;
+  font-size: 4.5vw;
+  font-weight: bold;
+  margin-top: -3vw;
+  margin-left: 2.1vw;
+}
+
+.zero-six {
+  font-family: "Fira Sans", sans-serif;
+  color: #FFFFFF;
+  font-size: 1vw;
+  margin-left: 2.2vw;
+  margin-top: -0.3vw;
+  letter-spacing: 0.06vw;
+}
+
+.calif-pict {
+  margin-top: -13vw;
+  position: relative;
+}
+
+.grow-p {
+  margin-top: -48.8vw;
+  margin-left: 46.5vw;
+  position: absolute;
+  width: 52.2vw;
+  height: 23.5vw;
+}
+
+.white {
+  margin-top: -46vw;
+  margin-left: 75.5vw;
+  position: absolute;
+  width: 10.8w;
+  height: 12.3vw;
+}
+
+.tochka {
+  background: #4AF6CD;
+  border-radius: 1vw;
+  width: 0.8vw;
+  height: 0.8vw;
+  margin-top: -47.7vw;
+  margin-left: 84.15vw;
+  position: relative;
+}
+
+.tochka1 {
+  background: #4AF6CD;
+  border-radius: 1vw;
+  width: 0.8vw;
+  height: 0.8vw;
+  margin-top: 12.25vw;
+  margin-left: 75.95vw;
+  position: relative;
+}
+
+.toc-1 {
+  background: #4AF6CD;
+  border-radius: 1vw;
+  width: 0.4vw;
+  height: 0.4vw;
+  margin-top: -5.6vw;
+  margin-left: 65.2vw;
+  position: relative;
+}
+
+.toc-2 {
+  background: #4AF6CD;
+  border-radius: 1vw;
+  width: 0.4vw;
+  height: 0.4vw;
+  margin-top: 6.3vw;
+  margin-left: 80.7vw;
+  position: relative;
+}
+
+.toc-3 {
+  background: #4AF6CD;
+  border-radius: 1vw;
+  width: 0.4vw;
+  height: 0.4vw;
+  margin-top: 4.4vw;
+  margin-left: 83.8vw;
+  position: relative;
+}
+
+.text-current {
+  font-family: "Fira Sans", sans-serif;
+  color: #FFFFFF;
+  font-size: 1vw;
+  letter-spacing: 0.03vw;
+  margin-left: 75.6vw;
+  margin-top: -20.5vw;
+}
+
+.text-west {
+  font-family: "Fira Sans", sans-serif;
+  color: #FFFFFF;
+  font-size: 1vw;
+  letter-spacing: 0.03vw;
+  margin-top: 11.6vw;
+  margin-left: 64vw;
+}
+
+.num-20-06 {
+  top: -3vw;
+  position: relative;
+}
+
+.icon {
+  width: 1.25vw;
+  height: 1.25vw;
+  top: 31.5vw;
+  margin-left: 0.7vw;
+  position: relative;
+}
+
+.cal {
+  font-family: "Fira Sans", sans-serif;
+  color: #FFFFFF;
+  font-size: 1vw;
+  letter-spacing: 0.03vw;
+  font-weight: 300;
+  top: 30vw;
+  position: relative;
+  margin-left: 2.2vw;
+}
+
+.cal-ph {
+  margin-left: 0.6vw;
+}
+
+.strelka-down {
+margin-top: 29vw;
+margin-left: 12vw;
+}
